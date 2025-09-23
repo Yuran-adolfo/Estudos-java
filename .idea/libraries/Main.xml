@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Programacao/Cursos/Html/Main/Frontend - CSS Grid.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Programacao/Cursos/Html/Main/Frontend - Criando seu portfólio.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Programacao/Cursos/Html/Main/Frontend - Loja de Café.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Programacao/Cursos/Html/Main/Frontend - HTML Básico.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Programacao/Cursos/Html/Main/Frontend - Flexbox.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
