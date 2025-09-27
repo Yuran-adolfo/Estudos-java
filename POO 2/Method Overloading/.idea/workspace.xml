@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d998ddf4-4873-47ef-b5ba-f19216f28776" name="Changes" comment="" />
+    <list default="true" id="e1f47676-061d-4ffd-8190-c0251e9bc4c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,21 +36,12 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Animais/Coelho.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Animais/Falcao.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Animais/Peixe.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Interfaces/Predador.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Interfaces/Presa.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Readme.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="33BzWntrxaFdMPIyZRCCkOi54xo" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="33HWh159Y2zeFucMHAbF30FRLsW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,30 +52,17 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/yuran/Documents/POO 2/Method Overriding"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Interfaces" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d998ddf4-4873-47ef-b5ba-f19216f28776" name="Changes" comment="" />
-      <created>1758805289748</created>
+      <changelist id="e1f47676-061d-4ffd-8190-c0251e9bc4c0" name="Changes" comment="" />
+      <created>1758974595999</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758805289748</updated>
+      <updated>1758974595999</updated>
     </task>
     <servers />
   </component>
